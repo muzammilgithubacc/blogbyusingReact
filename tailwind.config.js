@@ -10,7 +10,7 @@ export default {
         "color-1" : "#f9845d",
         "color-2" : "#FE9A78",
       "color-3" : "#EEE5DC",
-      "color-4" : "#f4eee8",
+      "color-4" : "rgb(20, 19, 19)",
       }
     },
   },

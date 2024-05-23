@@ -26,7 +26,7 @@ console.log("user get ka error");
 
 
 return !loading ? (
-    <div className='min-h-screen flex flex-wrap content-between bg-gray-400'>
+    <div className='min-h-screen flex flex-wrap content-between bg-color-4'>
       <div className='w-full block '>
         <Header />
         <main>

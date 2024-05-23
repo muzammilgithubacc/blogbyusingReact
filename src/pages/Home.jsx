@@ -53,9 +53,9 @@ function Home() {
     <>
       <section className=" custom-hero-style">Hero section</section>
 
-      <div className="w-full py-8 bg-gray-300">
+      <div className="w-full py-8 ">
         <Container>
-          <h1 className="text-center font-bold text-3xl mb-5">All POSTS</h1>
+          <h1 className="text-center text-color-1 font-bold text-3xl mb-5">All POSTS</h1>
           <div className="flex flex-wrap ">
             <Dummyposts></Dummyposts>
 
